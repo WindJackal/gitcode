@@ -1,0 +1,4 @@
+July 30, 2021 - v.0.1
+
+- First version of the package
+- Basic git functionality
