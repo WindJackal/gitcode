@@ -2,7 +2,7 @@
 
 **gitcode** is a Python package aimed at allowing users to perform *Git* commands from Python scripts and the Python shell. There are alternative packages that perform the same function, but I found them awkward and difficult to use. I decided to develop **gitcode** so that users, either new to or experienced with *Git*, could find it easy and accessible to interface with it from their Python projects.
 
-> Note: gitcode is currently at v.0.1 (the first initial build). There are obviously improvements to be made, but I've decided that I'm going to first rework the authentication in the various functions that require Git authentication, due to GitHub [deprecating password authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/). v.0.2 with token-based authentication and other improvements is currently in development.
+> Note: gitcode is currently at v1.0.0 (the first initial build). There are obviously improvements to be made, but I've decided that I'm going to first rework the authentication in the various functions that require Git authentication, due to GitHub [deprecating password authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/). v1.0.1 with token-based authentication and other improvements is currently in development.
 
 ## Instructions for installation
 
